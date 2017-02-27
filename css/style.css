@@ -14,7 +14,7 @@ time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size:100%;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -175,7 +175,7 @@ body{
 {
   margin-top: 50px;
   text-align: right;
-   font-family : Bond4F;
+   font-family : "Bond4F";
 }
 .text1
 {
@@ -206,7 +206,7 @@ body{
  }
 
 
- /* FOOTER *****************************************/
+ /* FOOTER *****/
 
 .footer{
  margin:2% ;
@@ -224,7 +224,7 @@ body{
 .pdown{
  float: right;
  text-align: left;
- font-family: Bond4F-UltraLight;
+ font-family: 'Bond4F-UltraLight';
  font-weight: lighter;
  font-size:20px;
  margin-top: 10px;
@@ -289,7 +289,7 @@ footer a {
         font-size: 20px;
         margin:0;
     }
-        /*DEMI BORDUR VERT*/
+        /*DEMI BORDURE VERT*/
     .text, .linkinscri{
         width:100%;
         padding:5px;
@@ -306,7 +306,7 @@ footer a {
         margin-right: 5px;
         margin-bottom: 15px;
     }
-        /*TXT ENTRE BORDUR VERT ET BLEU*/
+        /*TXT ENTRE BORDURE VERT ET BLEU*/
     .img1, .img2{
         margin:0;
         padding:0;
@@ -328,7 +328,7 @@ footer a {
 		.candid{
 			word-break: break-all;
 		}
-            /*BORDUR BLEU*/
+            /*BORDURE BLEU*/
     .address{
         margin:auto;
         padding:5px;
